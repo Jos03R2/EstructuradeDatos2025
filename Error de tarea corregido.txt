@@ -1,0 +1,15 @@
+Buen dia Ingeniero queria comentarle que en la reunion del dia
+15/03/2025 se me aclaro una duda y me percate que tuve un error
+al realizar la tarea
+
+ya que solicitaba que se creara un package llamado 
+"umg.edu.gt.test.ClaseArrays" en el archivo compartido llamado
+EstructuradeDatos2025 y lo que hice fue crear un nuevo proyecto
+y ahi cree el package que solicitaba asi que corregi el error y
+subi el nuevo archivo.
+esperando que comprenda mi error igual puede verificar que en el
+repositorio que el proyecto ya mandado es el mismo codigo
+con la diferencia de que esta en el proyecto que usted compartio.
+
+gracias por su atencion.
+
